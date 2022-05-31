@@ -1,5 +1,5 @@
 // import { useNavigate } from 'react-router-dom';
-import '../Estilos/Breakfast.css';
+import '../Styles/Breakfast.css';
 import CafeAmericano from '../Assets/CafeAmericano.jpg';
 import CafeLeche from '../Assets/CafeConLeche.jpg';
 import Sandwich from '../Assets/Sandwich.jpg';

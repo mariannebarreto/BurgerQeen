@@ -1,4 +1,4 @@
-import '../Estilos/Menu.css';
+import '../Styles/Menu.css';
 import Order from './Order';
 import HeaderBreakfast from './HeaderBreakfast';
 import Breakfast from './Breakfast';

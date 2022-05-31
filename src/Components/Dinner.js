@@ -1,5 +1,5 @@
 // import { useNavigate } from 'react-router-dom';
-import '../Estilos/Dinner.css';
+import '../Styles/Dinner.css';
 import HamburguesaSencilla from '../Assets/HamburgesaSencilla.png';
 import HamburgesaDoble from '../Assets/HamburgesaDoble.jpg';
 import Papas from '../Assets/Papas.jpg';

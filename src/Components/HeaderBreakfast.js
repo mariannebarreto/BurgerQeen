@@ -1,4 +1,4 @@
-import '../Estilos/Breakfast.css';
+import '../Styles/Breakfast.css';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../Context/authContext';
 import Logo from '../Assets/Logo/logotype-white.svg';

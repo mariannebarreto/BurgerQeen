@@ -1,4 +1,4 @@
-import '../Estilos/Dinner.css';
+import '../Styles/Dinner.css';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../Context/authContext';
 import Logo from '../Assets/Logo/logotype-white.svg';
