@@ -1,4 +1,4 @@
-header{
+ .headerDinner{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -20,14 +20,27 @@ header{
     border-radius: 15px;
 }
 
-
-   
+/*grid que permite que haya 2 columnas: cards de items y order */
+#dinnerSection{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 20px;
+}
 /*Esta es la seccion en donde se encuentran todos los elementos del menu*/
 #itemsDinnerMenu{
     display:flex;
     flex-wrap: wrap;
-    width: 60%;
+    padding-right: 0%;
+    margin-left: 50px;
+    margin-top: 20px;
 }
+
+/*div que contiene order y permite el comportamiento del grid*/
+.orderContainer{
+    margin-right: 50px;
+    margin-top: 5px;
+}
+
 
 /*Estos son los elementos individuales del menu */
 .itemDinner{

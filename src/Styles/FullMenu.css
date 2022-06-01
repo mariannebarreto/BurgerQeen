@@ -8,7 +8,6 @@ header{
     background: linear-gradient(0deg, rgba(135, 126, 45, 0.3), rgba(135, 126, 45, 0.3)), #FF3742;
 }
 
-
 #coffeeHeaderText{
     color:White;
 }
@@ -42,6 +41,20 @@ header{
 
 .itemBreakfast:hover {
     background-color: rgba(252, 54, 28, 0.755);
+}
+
+.itemDinner{
+    background-color: #dbd1e4;
+        height: 250px;
+        width: 150px;
+        margin: 5px;
+        border-radius: 5px;
+        cursor: pointer;
+
+}
+
+.itemDinner:hover {
+    background-color: rgba(43, 5, 141, 0.782);
 }
 
 
