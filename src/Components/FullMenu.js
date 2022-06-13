@@ -14,6 +14,8 @@ export default function FullMenu() {
   useEffect(() => {
     getFullMenu();
   }, []);
+  // si clickean tal cosa renderizar equis
+  // de lo contrario renderiza linea 14 y 15
   // console.log(dishes);
   return (
     <div id="menuAndOrderSection">

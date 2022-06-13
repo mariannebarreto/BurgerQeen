@@ -27,10 +27,10 @@ export default function SignIn() {
       </section>
 
       <section>
-        <button type="button" className="menuButtons" id="all">Ver todo</button>
-        <button type="button" className="menuButtons" id="burgers">Hamburguesas</button>
-        <button type="button" className="menuButtons" id="snacks">Acompañamientos</button>
-        <button type="button" className="menuButtons" id="drinnks">Para Tomar</button>
+        <button type="button" className="menuButtons" id="all">See all</button>
+        <button type="button" className="menuButtons" id="burgers">Meal</button>
+        <button type="button" className="menuButtons" id="snacks">Side</button>
+        <button type="button" className="menuButtons" id="drinnks">Drink</button>
       </section>
 
       <section id="menuAndOrderSection">
